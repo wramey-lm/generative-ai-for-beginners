@@ -1,7 +1,0 @@
-name: generative-ai-for-beginners
-channels:  
- - defaults
-dependencies:  
-- python=3.10.13  
-- openai  
-- python-dotenv
